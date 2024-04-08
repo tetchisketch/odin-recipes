@@ -1,0 +1,40 @@
+/* Css resets */
+
+/* html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, menu, nav, output, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+  } */
+
+body {
+  width: 600px;
+  background-color: lightyellow;
+  margin: 8px auto;
+
+}
+
+.recipe-link {
+  margin: 8px;
+}
+
+a {
+  display: block;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
